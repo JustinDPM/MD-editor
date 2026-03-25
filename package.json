@@ -28,8 +28,8 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "TU_USUARIO",
-        "repo": "TU_REPO"
+        "owner": "JustinDPM",
+        "repo": "MD-editor"
       }
     ]
   }

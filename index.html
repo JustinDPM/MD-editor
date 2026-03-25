@@ -47,7 +47,7 @@
         }
 
         if (arg === 'save') {
-          event.sender.send('save', editor.value());
+          ipcRenderer.send('save', editor.value());
         }
       });
 
